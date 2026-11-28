@@ -9,7 +9,7 @@ categories: [ai]
 
 Preface: When I say AI, I mostly mean chatbots and coding agents that I use to research things, fill in gaps Google leaves, and build small prototypes. I'm not talking about vibe coding whole apps or generating whole posts, which a lot of people assume is what "using AI" means.
 
-I used to be completely against AI, and honestly I still am. The way it's used and marketed has always felt like corporate greed. I see AI sold as a way to do more with fewer people, and I feel like the executives pushing that care more about cutting costs than making anything good. Not to mention all the slop and the awful ways people use the technology. None of that has gone away. What changed is that I stopped seeing the tool and the way it's sold as the same thing.
+I used to be completely against AI, and mostly I still am. The way it's used and marketed has always felt like corporate greed. I see AI sold as a way to do more with fewer people, and I feel like the executives pushing that care more about cutting costs than making anything good. Not to mention all the slop and the awful ways people use the technology. None of that has gone away. What changed is that I stopped seeing the tool and the way it's sold as the same thing.
 
 About a year ago, I started using AI to help me with some bracket code I was working on for Zygarden, a tournament platform for competitive Pokémon. I had built lookup tables, along with functions that used them to generate the lines connecting each matchup to the ones that they feed into, adjusting dynamically to the number of participants. That worked for up to 32 participants, but I wanted to expand it to 128, for both single and double elimination.
 
