@@ -71,7 +71,7 @@ I also can't separate this from the corporate greed I mentioned at the start. Ma
 
 I know plenty of people see this differently, but I'd personally like to know if an image or piece of art was AI-generated.
 
-- ## Takeaways
+## Takeaways
 
 So, why dig with your hands when you can use a shovel? I will, as long as I know what I'm digging for and I'm honest that I used a shovel. Here's what I try to follow.
 
