@@ -1,6 +1,8 @@
-title: Allison Levels Up
+title: Allison Schambers
 author: Allison Schambers
 description: Writing about software, video games and what I learn from both
 theme: minima
 plugins:
   - jekyll-feed
+github_username: aschambers
+linkedin_username: allison-schambers-b088778a

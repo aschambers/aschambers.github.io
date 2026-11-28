@@ -1,0 +1,75 @@
+---
+---
+
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap");
+
+$background-color: #080a0f;
+$text-color: #b9c0cd;
+$brand-color: #87b13b;
+$grey-color: #8b95a7;
+$grey-color-light: #273246;
+$grey-color-dark: #b9c0cd;
+
+@import "minima";
+
+h1, h2, h3, .site-title, .site-title:visited {
+  font-family: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+  font-weight: 400;
+  color: #e6ebf3;
+}
+
+a { color: #87b13b; }
+a:hover { color: #a5cf55; text-decoration: none; }
+
+.wrapper { max-width: 760px; }
+
+pre, code { background: #121826; border: 1px solid #273246; }
+blockquote { border-left-color: #87b13b; color: #8b95a7; }
+
+.site-header {
+  background: #121826;
+  border-top: none;
+  border-bottom: 1px solid #273246;
+}
+
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+}
+.site-header .wrapper::after { display: none; }
+
+.site-header .site-title {
+  float: none;
+  line-height: 1;
+  padding: 16px 0;
+}
+
+.header-links {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-left: 18px;
+  line-height: 0;
+  transform: translateY(0.1em);
+}
+.header-links a { display: flex; }
+.header-links .svg-icon {
+  width: 20px;
+  height: 20px;
+  padding: 0;
+  fill: #8b95a7;
+}
+.header-links a:hover .svg-icon { fill: #87b13b; }
+
+.site-footer {
+  border-top: none;
+  padding: 0 0 30px;
+  font-family: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+  font-size: 0.85rem;
+  color: #8b95a7;
+}
+.site-footer hr {
+  border: 0;
+  border-top: 1px solid #273246;
+  margin: 0 0 20px;
+}
