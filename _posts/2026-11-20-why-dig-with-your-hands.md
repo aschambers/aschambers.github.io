@@ -41,7 +41,7 @@ So for me, the question isn't really whether to use AI or not. Holding everythin
 
 I think AI use should be disclosed, and that we should stay critical of how people use AI. Most of my objections come down to not knowing whether a person made something, whose work the model was trained on, or what the environmental cost was. [California](https://www.morganlewis.com/pubs/2026/08/new-california-ai-disclosure-rules-become-operative) and [the EU](https://www.dynamisllp.com/knowledge/ai-disclosure-in-2026-recent-developments-and-practical-steps-for-brands-and-influencers) have started down this road, and both now have requirements for labeling AI-generated content, though California's currently covers images, video, and audio, not text.
 
-I'd also want to know what AI costs the communities that host its data centers. [California](https://www.insideenergyandenvironment.com/2026/09/californias-new-data-center-package-highlights-growing-state-focus-on-energy-water-and-environmental-impacts/) and [New Jersey](https://news.bgov.com/artificial-intelligence/new-jersey-joins-states-cracking-down-on-data-center-energy-use) now require data centers to report their energy and water use, which seems like a good starting point.
+I'd also want to know what AI costs the communities that host its data centers. [California](https://www.insideenergyandenvironment.com/2026/09/californias-new-data-center-package-highlights-growing-state-focus-on-energy-water-and-environmental-impacts/) and [New Jersey](https://news.bgov.com/artificial-intelligence/new-jersey-joins-states-cracking-down-on-data-center-energy-use) have passed laws requiring data centers to report their energy and water use, which seems like a good starting point.
 
 ## The archaeologist
 
