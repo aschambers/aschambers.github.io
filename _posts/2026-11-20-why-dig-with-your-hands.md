@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I was against AI. Here's what changed, and what didn't"
-date: 2026-11-20
+date: 2026-11-27
 categories: [ai]
 ---
 
@@ -42,6 +42,14 @@ So for me, the question isn't really whether to use AI or not. Holding everythin
 I think AI use should be disclosed, and that we should stay critical of how people use AI. Most of my objections come down to not knowing whether a person made something, whose work the model was trained on, or what the environmental cost was. [California](https://www.morganlewis.com/pubs/2026/08/new-california-ai-disclosure-rules-become-operative) and [the EU](https://www.dynamisllp.com/knowledge/ai-disclosure-in-2026-recent-developments-and-practical-steps-for-brands-and-influencers) have started down this road, and both now have requirements for labeling AI-generated content, though California's currently covers images, video, and audio, not text.
 
 I'd also want to know what AI costs the communities that host its data centers. [California](https://www.insideenergyandenvironment.com/2026/09/californias-new-data-center-package-highlights-growing-state-focus-on-energy-water-and-environmental-impacts/) and [New Jersey](https://news.bgov.com/artificial-intelligence/new-jersey-joins-states-cracking-down-on-data-center-energy-use) have passed laws requiring data centers to report their energy and water use, which seems like a good starting point.
+
+## Who profits
+
+What bothers me most is who benefits. Most of the money goes to the companies selling AI as a way to do more with fewer people, and to the people using it to flood the internet with content they didn't make or care about. I also don't trust some of the people at the top. Elon Musk's xAI ran dozens of gas turbines at its Memphis data center without permits, according to the [Southern Environmental Law Center](https://insideclimatenews.org/news/17072025/elon-musk-xai-data-center-gas-turbines-memphis/), and he oversaw DOGE when USAID was dismantled, which researchers estimate could cost millions of lives by 2030, though those numbers are projections and he disputes them. I avoid using ChatGPT and xAI's Grok because I trust those companies less, but I still use AI as a tool, and I know that means money goes to a company I'm still paying. No company is perfect, so I'm choosing among imperfect options and trying to stay careful about what I use AI for.
+
+A lot of people also use AI to keep up with others who do, and admittedly is part of the reason why I started using AI. When other programmers move faster with AI, working without it can start to look like a disadvantage, and that pressure doesn't care how anyone feels about the companies selling the tools. Personal choices only go so far when everyone is being pushed in the same direction.
+
+That's why I think what's really needed is regulation, not individual restraint. Disclosure requirements and reporting on data center energy and water use are a good start, but they're only a start. I'd like to see lawmakers go further on how these companies train their models, power their data centers, and treat the communities around them, so that being responsible doesn't depend on every person making the perfect choice.
 
 ## The archaeologist
 
