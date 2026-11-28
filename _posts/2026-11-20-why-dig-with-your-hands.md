@@ -13,7 +13,7 @@ I used to be completely against AI, and honestly I still am. The way it's used a
 
 About a year ago, I started using AI to help me with some bracket code I was working on for Zygarden, a tournament platform for competitive Pokémon. I had built lookup tables, along with functions that used them to generate the lines connecting each matchup to the ones that they feed into, adjusting dynamically to the number of participants. That worked for up to 32 participants, but I wanted to expand it to 128, for both single and double elimination.
 
-The process of building that for up to 32 participants was already very time consuming, and a friend had been using AI and spoke highly of some things it could help with, and so I thought I'd try asking AI to help with this endeavor. AI got a lot wrong as there were many places where bracket matchups were not aligned with bracket lines. Doing this using AI was still way faster to go in and hand tune things than to create all of that by hand.
+Building that for up to 32 participants had already been very time consuming. A friend who used AI spoke highly of what it could help with, so I decided to try it on this. It got a lot wrong, and in many places the matchups didn't line up with the lines connecting them. Even so, going in and hand tuning the results was still much faster than building all of it by hand.
 
 The studies on how much time AI really saves are [mixed](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/). AI seems to help most on well-defined, self-contained tasks, like [this one](https://arxiv.org/abs/2410.12944), and least when experts are working in code they already know well. Expanding my bracket code was the first kind. Even with all the hand tuning, I felt like the use of AI saved me a lot of time.
 
@@ -25,7 +25,7 @@ To check the work, I needed to see the brackets at every size from 2 to 128 part
 
 AI has also sped up how I learn new things. When I was figuring out how to set up an app initializer in Angular, AI gave me an answer, and when I asked where that came from, it took me straight to the part of the Angular documentation that explained the setup. Before, I'd google how to set one up, find a Stack Overflow post or a blog post showing how other people handled the same problem, and then verify the result myself. Now I still end up verifying the source, just a lot faster.
 
-AI also helps when I hit something like writer's block, where I know what I want to build but I'm having trouble getting my thoughts in order, and can provide a very good starting point for what I want to build. A good example would be deciding how to organize shared components, tokens, and styles in a large Angular app, where I'm not sure where to even begin. I can ask AI about various approaches and think about the pro's and con's of each.
+AI also helps when I hit something like writer's block, where I know what I want to build but I'm having trouble getting my thoughts in order. A good example is deciding how to organize shared components, tokens, and styles in a large Angular app, where I'm not sure where to even begin. I can ask AI about various approaches, which gives me a good starting point, and then think through the pros and cons of each myself.
 
 There's an analogy I like for this. Why dig with your hands when you can use a shovel? I think it's mostly right, but the shovel isn't the whole story. The rest of this post is about where the use of AI stops working.
 
